@@ -41,9 +41,11 @@
 
 ![게임 생성 과정](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide22.JPG)
 
+![모델링 계획](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide32.JPG)
+
 ![감사합니다](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide38.JPG)
 
-![모델링 계획](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide32.JPG)
+
 
 ## 🎈프로젝트 시연
 1. 유저1 회원가입
