@@ -18,6 +18,22 @@
 [프로젝트 요구사항 정의서](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/PDF%20file/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 <br/><br/>
 
+## 🎈ERD 소개 
+![사전데이터](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide6.JPG)
+
+![이벤트데이터](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide8.JPG)
+
+![사전데이터-캐릭터](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide11.JPG)
+
+![사전데이터-맵](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide12.JPG)
+
+![사전데이터-아이템](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide13.JPG)
+
+![이벤트테이블-유저](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide15.JPG)
+
+![이벤트-상점](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide16.JPG)
+
+
 
 ## 🎈프로젝트 시연
 1. 유저1 회원가입
