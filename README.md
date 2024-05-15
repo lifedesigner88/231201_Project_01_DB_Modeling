@@ -33,7 +33,17 @@
 
 ![이벤트-상점](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide16.JPG)
 
+![이벤트-채팅](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide17.JPG)
 
+![이벤트-게임결과](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide18.JPG)
+
+![맵의위계](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide20.JPG)
+
+![게임 생성 과정](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide22.JPG)
+
+![감사합니다](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide38.JPG)
+
+![모델링 계획](https://github.com/lifedesigner88/231201_Project_01_DB_Modeling/blob/main/image/Crazy_Arcade/Slide32.JPG)
 
 ## 🎈프로젝트 시연
 1. 유저1 회원가입
