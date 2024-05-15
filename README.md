@@ -1,3 +1,6 @@
+## 🎈Entity Relationship Diagram (ERD)
+![001-최종 ERD 이미지](https://github.com/lifedesigner88/be03-1st-3team-Game_Of_Memories/assets/57553339/0b071d8f-d18f-4983-82de-1c3505fa4ffe)
+<br/><br/>
 
 ![모두의 크아 1](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/4a9c0eb0-5dd9-4171-bcf6-9e5f6d652d82)
 <br/>
@@ -17,9 +20,7 @@
 ## 🎈Entity Relationship Diagram (ER Diagram)
 ![ERD_test drawio](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/d36beb33-1bef-460a-bc66-535f0b4e2f6a)
 <br/><br/>
-## 🎈Entity Relationship Diagram (ERD)
-![001-최종 ERD 이미지](https://github.com/lifedesigner88/be03-1st-3team-Game_Of_Memories/assets/57553339/0b071d8f-d18f-4983-82de-1c3505fa4ffe)
-<br/><br/>
+
 
 ## 🎈프로젝트 시연
 1. 유저1 회원가입
