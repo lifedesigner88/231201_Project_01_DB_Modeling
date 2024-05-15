@@ -2,12 +2,13 @@
 ![001-최종 ERD 이미지](https://github.com/lifedesigner88/be03-1st-3team-Game_Of_Memories/assets/57553339/0b071d8f-d18f-4983-82de-1c3505fa4ffe)
 <br/><br/>
 
+## 👯‍♂️팀원<br/> 
+🤠 박세종 🦁 박성준 🐸 신유정 🐹 정세한 🐼 권도훈<br/><br/>
+
 ![모두의 크아 1](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/4a9c0eb0-5dd9-4171-bcf6-9e5f6d652d82)
 <br/>
 ![모두의 크아 2](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/961f5634-9092-4489-9923-48126cf2e93b)
 
-## 👯‍♂️팀원<br/> 
-🤠 박세종 🦁 박성준 🐸 신유정 🐹 정세한 🐼 권도훈<br/><br/>
 
 ## 🎈프로젝트 개요
 [프로젝트 개요](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/PDF%20file/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94.pdf)
